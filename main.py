@@ -18,4 +18,4 @@ wish('Ravi')
 
 wish('Sunny')
 
-wish('sanjay')
+wish('sanju')
