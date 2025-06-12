@@ -17,3 +17,5 @@ wish('John')
 wish('Ravi')
 
 wish('Sunny')
+
+wish('sanjay')
